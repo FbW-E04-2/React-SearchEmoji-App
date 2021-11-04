@@ -36,7 +36,7 @@ export default App;
 //deployment steps 
 // 1: add homepage property in package json
     //"homepage":"."
-//2. install gh-pages
+//2. install gh-pages (npm i gh-pages)
 //3. add 2 more scripts into your package json file
     /* "scripts":{
       ....
